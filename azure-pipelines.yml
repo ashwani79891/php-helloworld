@@ -9,8 +9,9 @@ trigger:
 pool:
   name: ashwani pool
 
- variables:
+ 
    
+      
 
 steps:
 - script: |
