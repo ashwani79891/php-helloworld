@@ -10,7 +10,7 @@ pool:
   name: ashwani pool
 
  variables:
-   python: 7.1
+   
 
 steps:
 - script: |
