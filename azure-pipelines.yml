@@ -9,9 +9,7 @@ trigger:
 pool:
   name: ashwani pool
 
-variables:
-  phpVersion: 7.2
-
+  
 steps:
 - script: |
     sudo update-alternatives --set php /usr/bin/php$(phpVersion)
