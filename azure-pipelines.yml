@@ -9,8 +9,9 @@ trigger:
 pool:
   name: ashwani pool
 
-  
-  
+variable:
+  python: 7.1
+
 steps:
 - script: |
     sudo update-alternatives --set php /usr/bin/php$(phpVersion)
