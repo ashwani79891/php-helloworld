@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name:ashwani pool1
+  name:ashwani pool
 
 variables:
   phpVersion: 7.2
